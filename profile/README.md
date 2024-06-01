@@ -12,4 +12,4 @@
 目前共有以下项目：
 - 《球场冲突II：体委之死》
 - 《逃离管哥 Escape Guan》
-- 《Turtle Game：跨越物种的恋爱》s
+- 《Turtle Game：跨越物种的恋爱》
